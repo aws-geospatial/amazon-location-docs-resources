@@ -51,12 +51,11 @@ optimized functionality without custom bundling. This bundled client includes
 all libraries required to build client side web applications with Amazon
 Location Service.
 
-**Benefits of the JavaScript client:**
-- Direct pre-bundled dependency inclusion
-- No need to run bundling workflow for dependencies
-- Built-in map rendering capabilities
+**Features included in the bundled client:**
+- Enables direct pre-bundled dependency inclusion without custom bundle / build
 - Simplified authentication and API integration
 - TypeScript support with comprehensive type definitions
+- Support for all Amazon Location SDKs
 
 **Included SDKs and Libraries:**
 - @aws-sdk/client-geo-maps
